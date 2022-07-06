@@ -82,7 +82,7 @@ public class Solution_D3_1230_암호문3 {
 					int xi = Integer.parseInt(st.nextToken());
 					int yi = Integer.parseInt(st.nextToken());
 					for (int j = 0; j < yi; j++) {
-						al.add(xi + i, st.nextToken());
+						al.add(xi + , st.nextToken());
 					}
 					break;
 				case "D":
