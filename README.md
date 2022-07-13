@@ -15,7 +15,7 @@
 | 7/10 |SWAD/5948/새샘이의7-3-5게임|중복삭제는 hashset, sort를 위해 arraylist로 바꿈, 큰 순서대로 출력해야 하므로 Collections.reverseOrder()사용|⭕|
 | 7/11 |프로그래머스/제일 작은 수 제거하기|arraylist는 length이 아니라 size(),import하는거,반환값이 배열이라면 어떤 배열이 나와도 ok|⭕|
 | 7/12 |프로그래머스/SQL/SELECT<br/>프로그래머스/평균구하기 | |⭕|
-| 7/13 | | |❌|
+| 7/13 |프로그래머스/SQL/SUM, MAX, MIN<br/>프로그래머스/행렬의덧셈|DISTINCT,NULL이 아닌 경우 IS NOT NULL<br/>출력값의 배열을 초기화 해줘야지|⭕|
 
 <br/>
 
